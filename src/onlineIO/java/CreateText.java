@@ -19,3 +19,15 @@ public class CreateText {
         return text;
     }
 }
+//scanner - модификатор доступа
+
+//CreateText - не существительное
+
+//creatingText() - не глагол
+
+//getText() возвращает текст, creatingText() воззвращает текст, можно получить текст с помощью getText() когда
+//мы его еще не создалис помощью creatingText().. не подуманно
+
+//scanner - модификатор доступа
+
+//final?

@@ -25,3 +25,7 @@ public class MyStream {
         }
     }
 }
+
+//createText - модификатор доступа
+
+//final?
